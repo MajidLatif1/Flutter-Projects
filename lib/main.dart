@@ -52,7 +52,7 @@ class SignUpForm extends StatelessWidget {
         ),
         Image.asset(
           'lib/image/CodingBoy.png',
-          height: 400,
+          height: 450,
           width: 300,
         ),
         ElevatedButton(
